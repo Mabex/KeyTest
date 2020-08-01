@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.synclab.internship.keytest.MainTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 19.094 sec <<< FAILURE! - in com.synclab.internship.keytest.MainTest
+testHelloWorld  Time elapsed: 0.236 sec  <<< ERROR!
+javax.ws.rs.NotFoundException: HTTP 404 Not Found
+	at com.synclab.internship.keytest.MainTest.testHelloWorld(MainTest.java:50)
+
+com.synclab.internship.keytest.MainTest  Time elapsed: 15.363 sec  <<< ERROR!
+java.lang.IllegalStateException: Entity must not be null for http method PUT.
+

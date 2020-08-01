@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.synclab.internship.keytest
+---
+testFramework: junit
+sourceLanguage: java

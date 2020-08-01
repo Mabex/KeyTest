@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.synclab.internship.keytest.MainTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.452 sec <<< FAILURE! - in com.synclab.internship.keytest.MainTest
+com.synclab.internship.keytest.MainTest  Time elapsed: 3.451 sec  <<< ERROR!
+java.lang.NullPointerException
+	at com.synclab.internship.keytest.MainTest.startTheServer(MainTest.java:39)
+

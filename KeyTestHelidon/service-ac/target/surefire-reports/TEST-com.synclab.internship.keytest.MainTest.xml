@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.synclab.internship.keytest.MainTest" time="19.094" tests="2" errors="2" skipped="0" failures="0">
+  <properties>
+    <property name="os.detected.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="12.0.2+10"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-12.0.2\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Filippo Checchinato\Desktop\KeyTestHelidon\service-ac"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.detected.version.minor" value="0"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IT"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\Filippo Checchinato\Desktop\KeyTestHelidon\service-ac"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="12.0.2+10"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\FILIPP~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.detected.version.major" value="10"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="idea.version2020.1" value="true"/>
+    <property name="os.detected.classifier" value="windows-x86_64"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.4\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.4\plugins\maven\lib\maven3\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-12.0.2\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files (x86)\Streamlink\bin;C:\ProgramData\chocolatey\bin;C:\Users\Filippo Checchinato\AppData\Local\Microsoft\WindowsApps;C:\Users\Filippo Checchinato\AppData\Local\Programs\Microsoft VS Code\bin;D:\Programmi_D\Anaconda3\Scripts;C:\Program Files\Java\jdk-12.0.2\bin;C:\Users\Filippo Checchinato\AppData\Local\Programs\MiKTeX 2.9\miktex\bin\x64\;C:\Users\Filippo Checchinato\AppData\Local\Android\Sdk\platform-tools;D:\Programmi_D\gnuplot\bin;C:\Users\Filippo Checchinato\AppData\Local\GitHubDesktop\bin;C:\Librerie\Consul;;."/>
+    <property name="os.detected.arch" value="x86_64"/>
+    <property name="maven.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.4\plugins\maven\lib\maven3/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="56.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.detected.name" value="windows"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Filippo Checchinato"/>
+    <property name="user.timezone" value="Europe/Rome"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="12"/>
+    <property name="user.name" value="Filippo Checchinato"/>
+    <property name="java.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.4\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="12"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version2020.1 package"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-12.0.2"/>
+    <property name="user.language" value="it"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="12.0.2"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.4\plugins\maven\lib\maven3"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2019-07-16"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="testHelloWorld" classname="com.synclab.internship.keytest.MainTest" time="0.236">
+    <error message="HTTP 404 Not Found" type="javax.ws.rs.NotFoundException">javax.ws.rs.NotFoundException: HTTP 404 Not Found
+	at com.synclab.internship.keytest.MainTest.testHelloWorld(MainTest.java:50)
+</error>
+    <system-out><![CDATA[2020.05.13 10:44:24 INFO org.jboss.weld.Version Thread[main,5,main]: WELD-000900: 3.1.1 (Final)
+2020.05.13 10:44:24 INFO org.jboss.weld.Bootstrap Thread[main,5,main]: WELD-ENV-000020: Using jandex for bean discovery
+2020.05.13 10:44:24 INFO org.jboss.weld.Bootstrap Thread[main,5,main]: WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+2020.05.13 10:44:25 INFO org.jboss.weld.Event Thread[main,5,main]: WELD-000411: Observer method [BackedAnnotatedMethod] private io.helidon.microprofile.openapi.IndexBuilder.processAnnotatedType(@Observes ProcessAnnotatedType<X>) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.
+2020.05.13 10:44:25 INFO org.jboss.weld.Event Thread[main,5,main]: WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jersey.ext.cdi1x.internal.ProcessAllAnnotatedTypes.processAnnotatedType(@Observes ProcessAnnotatedType<?>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.
+2020.05.13 10:44:25 INFO org.jboss.weld.Bootstrap Thread[main,5,main]: WELD-ENV-002003: Weld SE container 47e7fcf6-fc8c-4840-b0ff-52b951bb620d initialized
+2020.05.13 10:44:26 WARNING com.netflix.config.sources.URLConfigurationSource Thread[main,5,main]: No URLs will be polled as dynamic configuration sources.
+2020.05.13 10:44:26 INFO com.netflix.config.sources.URLConfigurationSource Thread[main,5,main]: To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020.05.13 10:44:26 INFO com.netflix.config.DynamicPropertyFactory Thread[main,5,main]: DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@1a3e8e24
+2020.05.13 10:44:26 INFO io.helidon.microprofile.faulttolerance.CommandRetrier Thread[main,5,main]: About to execute command with key putRegistration2061226679 on thread main
+2020.05.13 10:44:26 INFO io.helidon.microprofile.security.SecurityMpService Thread[main,5,main]: Security extension for microprofile is enabled, yet security configuration is missing from config (requires providers configuration at key security.providers). Security will not have any valid provider.
+2020.05.13 10:44:27 INFO io.helidon.webserver.NettyWebServer Thread[main,5,main]: Version: 1.4.4
+2020.05.13 10:44:27 INFO io.helidon.webserver.NettyWebServer Thread[nioEventLoopGroup-2-1,10,main]: Channel '@default' started: [id: 0x2d4ff644, L:/0:0:0:0:0:0:0:0:58812]
+2020.05.13 10:44:27 INFO io.helidon.microprofile.server.ServerImpl Thread[nioEventLoopGroup-2-1,10,main]: Server initialized on http://localhost:58812 (and all other host addresses) in 3720 milliseconds.
+]]></system-out>
+  </testcase>
+  <testcase name="com.synclab.internship.keytest.MainTest" classname="com.synclab.internship.keytest.MainTest" time="15.363">
+    <error message="Entity must not be null for http method PUT." type="java.lang.IllegalStateException">java.lang.IllegalStateException: Entity must not be null for http method PUT.
+</error>
+    <system-out><![CDATA[2020.05.13 10:44:27 INFO io.helidon.microprofile.faulttolerance.CommandRetrier Thread[main,5,main]: About to execute command with key putDeregistration-1327752237 on thread main
+2020.05.13 10:44:27 INFO io.helidon.microprofile.faulttolerance.FaultToleranceCommand Thread[main,5,main]: Waiting for completion of thread Thread[hystrix-io.helidon.microprofile.faulttolerance-2,5,main]
+2020.05.13 10:44:33 INFO io.helidon.microprofile.faulttolerance.CommandRetrier Thread[main,5,main]: About to execute command with key putDeregistration-1327752237 on thread main
+2020.05.13 10:44:33 INFO io.helidon.microprofile.faulttolerance.FaultToleranceCommand Thread[main,5,main]: Waiting for completion of thread Thread[hystrix-io.helidon.microprofile.faulttolerance-3,5,main]
+2020.05.13 10:44:37 INFO io.helidon.microprofile.faulttolerance.CommandRetrier Thread[main,5,main]: About to execute command with key putDeregistration-1327752237 on thread main
+2020.05.13 10:44:37 INFO io.helidon.microprofile.faulttolerance.FaultToleranceCommand Thread[main,5,main]: Waiting for completion of thread Thread[hystrix-io.helidon.microprofile.faulttolerance-4,5,main]
+2020.05.13 10:44:42 INFO io.helidon.microprofile.faulttolerance.CommandRetrier Thread[main,5,main]: About to execute command with key putDeregistration-1327752237 on thread main
+2020.05.13 10:44:42 INFO io.helidon.microprofile.faulttolerance.FaultToleranceCommand Thread[main,5,main]: Waiting for completion of thread Thread[hystrix-io.helidon.microprofile.faulttolerance-5,5,main]
+2020.05.13 10:44:42 INFO org.jboss.weld.Bootstrap Thread[main,5,main]: WELD-ENV-002001: Weld SE container 47e7fcf6-fc8c-4840-b0ff-52b951bb620d shut down
+]]></system-out>
+  </testcase>
+</testsuite>

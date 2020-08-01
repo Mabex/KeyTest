@@ -1,0 +1,13 @@
+---
+micronaut:
+  server:
+    port: 8081
+  application:
+    name: service-a
+
+---
+consul:
+  client:
+    registration:
+      enabled: true
+    defaultZone: "${CONSUL_HOST:localhost}:${CONSUL_PORT:8500}"
